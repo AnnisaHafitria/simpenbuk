@@ -1,0 +1,8 @@
+{
+    "name": "annisa/simpenbuk",
+    "type": "project",
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.27",
+        "nesbot/carbon": "^2.66"
+    }
+}
